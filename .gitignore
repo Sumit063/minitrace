@@ -1,0 +1,22 @@
+# Build artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.out
+
+# Binaries
+/minitrace
+*.exe
+
+# Debug files
+*.dSYM/
+*.su
+*.gcno
+*.gcda
+*.gcov
+
+# Editor/OS cruft
+.DS_Store
