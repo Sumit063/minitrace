@@ -85,3 +85,7 @@ Examples:
 
 ## License
 MIT
+
+---
+
+Built by **[Sumit Pandey](https://sumitpandey.online)** · [GitHub](https://github.com/Sumit063) · [LinkedIn](https://www.linkedin.com/in/sumit063)
